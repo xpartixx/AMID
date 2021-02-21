@@ -1,0 +1,97 @@
+body{
+    margin: 0%;
+    background-color: bisque;
+}
+
+.amid-imagen{
+    background-color: rgb(239, 174, 255);
+}
+
+.vasitos{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.uno{
+    margin: 20px;
+    border: 10px rgb(142, 197, 142) solid;
+    border-radius: 10%;  
+}
+
+.dos{
+    margin: 20px;
+    border: 10px rgb(119, 44, 15) solid;
+    border-radius: 10%;
+
+}
+.tres{
+    margin: 20px;
+    border: 10px rgb(217, 241, 110) solid;
+    border-radius: 10%;
+
+}
+.cuatro{
+    margin: 20px;
+    border: 10px rgb(234, 240, 155) solid;
+    border-radius: 10%;
+
+}
+
+.cinco{
+    margin: 20px;
+    border: 10px rgb(0, 0, 0) solid;
+    border-radius: 10%;
+
+}
+
+.seis{
+    margin: 20px;
+    border: 10px rgb(245, 77, 77) solid;
+    border-radius: 10%;  
+}
+
+.siete{
+    margin: 20px;
+    border: 10px rgb(119, 44, 15) solid;
+    border-radius: 10%;
+
+}
+.ocho{
+    margin: 20px;
+    border: 10px rgb(255, 206, 43) solid;
+    border-radius: 10%;
+
+}
+.nueve{
+    margin: 20px;
+    border: 10px rgb(167, 111, 89)  solid;
+    border-radius: 10%;
+
+}
+
+.diez{
+    margin: 20px;
+    border: 10px rgb(196, 179, 107) solid;
+    border-radius: 10%;
+
+}
+
+#final{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    text-align: center ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+  
+
+}
+
+#postres{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
