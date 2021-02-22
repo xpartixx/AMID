@@ -102,25 +102,25 @@ body{
 .texto-uno{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black ;
+    color: rgb(0, 0, 0) ;
 }
 
 .texto-dos{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:black;
+    color:rgb(0, 0, 0);
 }
 
 .texto-tres{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .texto-cuatro{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .texto-cinco{
@@ -139,5 +139,5 @@ body{
 .texto-once{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
 }
