@@ -85,6 +85,7 @@ body{
     text-align: center ;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
+    margin-bottom: 0;
   
 
 }
@@ -94,4 +95,49 @@ body{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.texto-uno{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(142, 197, 142) ;
+}
+
+.texto-dos{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(119, 44, 15);
+}
+
+.texto-tres{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(217, 241, 110);
+}
+
+.texto-cuatro{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(234, 240, 155);
+}
+
+.texto-cinco{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.once{
+    margin: 20px;
+    border: 10px rgb(234, 240, 155) solid;
+    border-radius: 10%;
+}
+
+.texto-once{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(234, 240, 155);
 }
